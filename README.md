@@ -8,7 +8,7 @@ Hi there 👋 I'm Juliana.
 <div>
   <a href="https://github.com/judsala">
   <image height="165em" src=https://github-readme-stats.vercel.app/api?username=judsala&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <image height="165em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=judsala&theme=synthwave&layout=compact&langs_count=16"/>
+  <image height="165em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=judsala&theme=synthwave&layout=compact&langs_count=10"/>
 </div>
 
 <div style="display: inline_block"><br>
