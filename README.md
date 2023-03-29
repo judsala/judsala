@@ -13,6 +13,7 @@ Hi there 👋 I'm Juliana.
 
 <div style="display: inline_block"><br>
   <image align="center" alt="Fran-C" heigh="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <image align="center" alt="Fran-C" heigh="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
 </div>
 
 ##
