@@ -1,6 +1,6 @@
 Hi there 👋 I'm Juliana.
 
-- 🔭 I’m currently a Software Engineering studeny.
+- 🔭 I’m currently an IT student.
 - 🌱 I’m currently learning about Angular and C# language. 
 - 📫 How to reach me: judantass87@gmail.com
 - 😄 Pronouns: She/ Her
